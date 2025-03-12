@@ -4,7 +4,7 @@
 科学、民主、自由
 </pre>
 
-**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Nicholas003" align="center" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Nicholas003" align="center" alt="visitors">
 
 **Languages:**
 
